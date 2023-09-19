@@ -1,5 +1,6 @@
 # JavaScript-basic-ideas
 
+# 1. Countdown Timer 
 A countdown timer in JavaScript is a common feature used in web applications to display a time duration that counts down to a specific event or deadline. It can be seen in various contexts, such as on websites for sales promotions, online quizzes, auctions, or even as a simple kitchen timer.
 A countdown timer is a time management tool that counts down from a specific starting point to zero, indicating the time remaining until a predetermined event or deadline. It is used in various contexts, both in digital and physical applications, to create a sense of urgency and keep track of time.
 
